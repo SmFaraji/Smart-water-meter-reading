@@ -1,3 +1,8 @@
+#projects channel     -> t.me/EngineeringLab
+#aparat channel       -> www.aparat.com/EngineeringLab
+#youtube channel      -> https://www.youtube.com/@sm_faraji
+#GitHub               -> https://github.com/SmFaraji
+
 import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
